@@ -1,7 +1,7 @@
 [![MasterHead](imgs/banner%20.png)](https://github.com/AndryushchenkoAnton)
 
 
-<div align="center" style="font-size: 1.2rem">I'm final year student pursuing Bachelor in Informatics and Counting Machines from Donetsk National
+<div align="center" style="font-size: 1.3rem">I'm final year student pursuing Bachelor in Informatics and Counting Machines from Donetsk National
 University. I'm passionate learner who's always willing to learn and work across technologies and domains. I love to 
 explore new technologies and use the to solve real-life problems. I'm currently to Web Development and working on my 
 Data Structures and Algorithms skills</div>
